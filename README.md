@@ -1,1 +1,1 @@
-# This website is the Assignment - 1 for the Cuvette course.
+# This is basic website which is given as assignment in CGIP.
